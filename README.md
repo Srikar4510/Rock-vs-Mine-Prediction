@@ -23,7 +23,7 @@ In this project, we leverage machine learning techniques to classify sonar data 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Rock-vs-Mine-Prediction.git
+    git clone https://github.com/Srikar4510/Rock-vs-Mine-Prediction.git
     cd Rock-vs-Mine-Prediction
     ```
 
